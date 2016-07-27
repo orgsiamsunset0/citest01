@@ -14,6 +14,7 @@ gem 'authority'
 
 gem 'letter_opener', group: :development
 
+# rebase test
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 gem 'simple_form'
